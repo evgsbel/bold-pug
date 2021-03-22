@@ -1,0 +1,14 @@
+<svg class="path-two-lg show-desktop" width="1131" height="4288" viewBox="0 0 1131 4288">
+    <defs>
+        <linearGradient id="path-two-lg-line" x1="50%" x2="50%" y1="1.119%" y2="99.091%">
+            <stop offset="0%" stop-color="#EF434E"></stop>
+            <stop offset="15.274%" stop-color="#111E6C"></stop>
+            <stop offset="31.517%" stop-color="#EF434E"></stop>
+            <stop offset="50.214%" stop-color="#111E6C"></stop>
+            <stop offset="69.204%" stop-color="#EF434E"></stop>
+            <stop offset="86.647%" stop-color="#111E6C"></stop>
+            <stop offset="100%" stop-color="#EF434E"></stop>
+        </linearGradient>
+    </defs>
+    <path id='word' fill="none" fill-rule="evenodd" stroke="url(#path-two-lg-line)" stroke-width="4" id="path-two-lg" transform="translate(-236 -820)" d="M239.579 820l-.848 395.848c-.084 39.212 31.636 71.068 70.848 71.152H1294c39.213 0 71 31.788 71 71v217.073c0 39.212-31.787 71-71 71H897.854c-39.212 0-71 31.788-71 71v286.899c0 39.212-31.788 71-71 71H312c-39.212 0-71 31.788-71 71v529.175c0 39.212 31.788 71 71 71h977c39.212 0 71 31.788 71 71v484.548c0 39.212-31.788 71-71 71-.431 0-.862-.004-1.293-.012l-404.636-7.37c-39.206-.713-71.567 30.49-72.281 69.696-.007.379-.01.757-.012 1.136l-1.85 835.698c-.086 39.212 31.631 71.07 70.843 71.157H1293c39.212 0 71 31.788 71 71v492.974c0 39.212-31.788 71-71 71H882.082c-39.212 0-71 31.788-71 71v58.79h0" style="stroke-dasharray: 8895.31, 8895.31; stroke-dashoffset: 8797;"></path>
+</svg>

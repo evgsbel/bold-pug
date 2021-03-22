@@ -1,0 +1,14 @@
+mixin title(title, subtitle)
+  .container
+    .row
+      .title.title_center.col-sm-12.text-center= title
+      .subtitle.col-sm-12.text-center= subtitle
+mixin title-white(title, subtitle)
+  .container
+    .row
+      .title.title_center.title_white.col-sm-12.text-center= title
+      .subtitle.subtitle_white.col-sm-12.text-center= subtitle
+
+mixin caption(title, subtitle)
+  .title.title_left= title
+  .subtitle= subtitle

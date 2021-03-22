@@ -1,0 +1,28 @@
+header.header.header_fixed
+  .header__container.d-flex.jc-sb.ai-c
+    a.header__logo.logo(href='/')
+      svg(width='114' height='40' viewBox='0 0 114 40')
+        use(xlink:href='#logo-blue')
+    nav.nav.header__nav.js-nav 
+      ul.nav__wrapper.d-flex.jc-sb
+        li.nav__item.nav__item_folder
+          a.nav__link(href="/") Products for your business
+          ul.nav__sub
+            li
+              a(href="/") Dataphone 
+            li
+              a(href="/") Payment link
+        li.nav__item
+          a.nav__link(href="/") About Us
+        li.nav__item
+          a.nav__link(href="/") Blog
+        li.nav__item
+          a.nav__link(href="/") Help
+    .header__buttons.d-flex.ai-c
+      button.btn.btn_white.header__whats-app.d-flex.ai-c
+        svg(width='32' height='32' viewBox='0 0 32 32')
+          use(xlink:href='#whats-app-icon')
+        span Contact advisor
+      button.btn.btn_red(@click="addNewNote") Buy dataphone
+
+      

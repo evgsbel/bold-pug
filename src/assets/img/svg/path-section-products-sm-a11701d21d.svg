@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="1162" viewBox="0 0 294 1162">
+    <defs>
+        <linearGradient id="mwmdxtldea" x1="47.262%" x2="50%" y1="94.598%" y2="0%">
+            <stop offset=".071%" stop-color="#EE424E"/>
+            <stop offset="50.044%" stop-color="#121E6C"/>
+            <stop offset="100%" stop-color="#EE424E"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g stroke="url(#mwmdxtldea)" stroke-width="3" transform="translate(-14 -588)">
+            <path d="M160 590v175c0 11.046-8.954 20-20 20H66c-27.614 0-50 22.386-50 50v284.25c0 27.614 22.386 50 50 50h190c27.614 0 50 22.386 50 50v479.25c0 27.614-22.386 50-50 50H134.692h0"/>
+        </g>
+    </g>
+</svg>
